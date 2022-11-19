@@ -32,21 +32,37 @@
 # [My Journey](https://my-portfolio-30apz7oh0-thabish-kader.vercel.app/)
 
 Hi there! I'm Thabish. I'm a passionate developer who loves building
-						things with code. My first experience with programming
-						was when I started my coding journey as a naive computer
-						science student with a passion to learn everything I
-						could about tech - code, cloud, ai, machine learning
-						etc. And all the while, teaching myself data science
-						with a dream to automate everything. But that soon got
-						overshadowed by my desire to build web applications with react, tailwind and typescript
-						. Initially, I was reluctant to learn CSS because it
-						seemed complicated. But ever since I started playing
-						around with tailwind everything got so much more fun.
-						That in combination with frameworks such as Next Js . I
-						found myself starting to build full-stack applications.
-						Since then, I&apos;ve been honing my skills and learning
-						Typescript, and tailwind. I recently graduated from College with a
-            Computer Science degree
-						. I'm seeking a full-time role 
-						where I can help a company achieve their goals and put
-						my skills to use.
+things with code. My first experience with programming
+was when I started my coding journey as a naive computer
+science student with a passion to learn everything I
+could about tech - code, cloud, ai, machine learning
+etc. And all the while, teaching myself data science
+with a dream to automate everything. But that soon got
+overshadowed by my desire to build web applications with react, tailwind and typescript
+. Initially, I was reluctant to learn CSS because it
+seemed complicated. But ever since I started playing
+around with tailwind everything got so much more fun.
+That in combination with frameworks such as Next Js . I
+found myself starting to build full-stack applications.
+Since then, I&apos;ve been honing my skills and learning
+Typescript, and tailwind. I recently graduated from College with a
+Computer Science degree
+. I'm seeking a full-time role 
+where I can help a company achieve their goals and put
+my skills to use.
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/Thabish-Kader/Thabish-Kader/" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/DeveloperTak" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/thabish-a-kader-366447224/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+
+</div>  
+						
