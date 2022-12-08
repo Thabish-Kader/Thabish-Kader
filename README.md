@@ -62,7 +62,10 @@ my skills to use.
 <a href="https://www.linkedin.com/in/thabish-a-kader-366447224/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-
-
 </div>  
+
+### Relavent Projects 
+- [Reddit](https://reddit-next-app.vercel.app/) Technologies: Next Js, Supabase, StepZen, Apolloclient, GraphQl, Typescript, Tailwind CSS
+
+-[Amazon](https://amazon-next-app-zqtc.vercel.app/) Technologies: Next Js, Stripe Chekout, Redux, Tailwind CSS
 						
