@@ -66,6 +66,6 @@ my skills to use.
 
 ### Relavent Projects 
 - [Reddit](https://reddit-next-app.vercel.app/) Technologies: Next Js, Supabase, StepZen, Apolloclient, GraphQl, Typescript, Tailwind CSS
+- [Amazon](https://amazon-next-app-zqtc.vercel.app/) Technologies: Next Js, Stripe Chekout, Redux, Tailwind CSS
 
--[Amazon](https://amazon-next-app-zqtc.vercel.app/) Technologies: Next Js, Stripe Chekout, Redux, Tailwind CSS
 						
