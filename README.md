@@ -62,6 +62,9 @@ my skills to use.
 <a href="https://www.linkedin.com/in/thabish-a-kader-366447224/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+<a href="https://www.youtube.com/@developertak2634" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%2324292e.svg?&style=for-the-badge&logo=youtube&logoColor=red alt=youtube style="margin-bottom: 5px;" />
+</a>
 </div>  
 
 ### Relavent Projects 
