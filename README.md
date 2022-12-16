@@ -1,4 +1,4 @@
-#  Thabish Kader <img align="left" alt="TypeScript" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coffeescript/coffeescript-original-wordmark.svg" />
+# Thabish Kader <img align="left" alt="TypeScript" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coffeescript/coffeescript-original-wordmark.svg" />
 
 **`Software Developer`**
 
@@ -9,7 +9,6 @@
 ### 🧰 Languages and Tools
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-
 
 <img align="left" alt="NextJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -47,11 +46,18 @@ found myself starting to build full-stack applications.
 Since then, I&apos;ve been honing my skills and learning
 Typescript, and tailwind. I recently graduated from College with a
 Computer Science degree
-. I'm seeking a full-time role 
+. I'm seeking a full-time role
 where I can help a company achieve their goals and put
 my skills to use.
 
-## Connect with me  
+## Latest Youtube Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+
+<!-- END YOUTUBE-CARDS -->
+
+## Connect with me
+
 <div align="center">
 <a href="https://github.com/Thabish-Kader/Thabish-Kader/" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -65,10 +71,9 @@ my skills to use.
 <a href="https://www.youtube.com/@developertak2634" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%2324292e.svg?&style=for-the-badge&logo=youtube&logoColor=red alt=youtube style="margin-bottom: 5px;" />
 </a>
-</div>  
+</div>
 
-### Relavent Projects 
-- [Reddit](https://reddit-next-app.vercel.app/) Technologies: Next Js, Supabase, StepZen, Apolloclient, GraphQl, Typescript, Tailwind CSS
-- [Amazon](https://amazon-next-app-zqtc.vercel.app/) Technologies: Next Js, Stripe Chekout, Redux, Tailwind CSS
+### Relavent Projects
 
-						
+-   [Reddit](https://reddit-next-app.vercel.app/) Technologies: Next Js, Supabase, StepZen, Apolloclient, GraphQl, Typescript, Tailwind CSS
+-   [Amazon](https://amazon-next-app-zqtc.vercel.app/) Technologies: Next Js, Stripe Chekout, Redux, Tailwind CSS
