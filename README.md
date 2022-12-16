@@ -50,10 +50,12 @@ Computer Science degree
 where I can help a company achieve their goals and put
 my skills to use.
 
-## Latest Youtube Videos
+## 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+
 [![Integrate Dark Mode in Next JS 13 and Tailwind CSS](https://ytcards.demolab.com/?id=UnTHqOWoPto&title=Integrate+Dark+Mode+in+Next+JS+13+and+Tailwind+CSS&lang=en&timestamp=1670917975&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Integrate Dark Mode in Next JS 13 and Tailwind CSS")](https://www.youtube.com/watch?v=UnTHqOWoPto)
+
 <!-- END YOUTUBE-CARDS -->
 
 ## Connect with me
