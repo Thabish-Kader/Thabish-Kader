@@ -75,12 +75,10 @@ my skills to use.
 ## 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
 [![Build custom sign in page for NextAuth | callback function for session | NextAuth | Typescript](https://ytcards.demolab.com/?id=-WZpodr-Enc&title=Build+custom+sign+in+page+for+NextAuth+%7C+callback+function+for+session+%7C+NextAuth+%7C+Typescript&lang=en&timestamp=1672413034&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Build custom sign in page for NextAuth | callback function for session | NextAuth | Typescript")](https://www.youtube.com/watch?v=-WZpodr-Enc)
 [![The way I handle forms in React | Increase Performance | useForm()](https://ytcards.demolab.com/?id=xPFYbMqpItw&title=The+way+I+handle+forms+in+React+%7C+Increase+Performance+%7C+useForm%28%29&lang=en&timestamp=1671792186&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "The way I handle forms in React | Increase Performance | useForm()")](https://www.youtube.com/watch?v=xPFYbMqpItw)
 [![How smart is Chat GPT ? Lets find out ?](https://ytcards.demolab.com/?id=uNcl94LYDCc&title=How+smart+is+Chat+GPT+%3F+Lets+find+out+%3F&lang=en&timestamp=1671288074&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "How smart is Chat GPT ? Lets find out ?")](https://www.youtube.com/watch?v=uNcl94LYDCc)
 [![Integrate Dark Mode in Next JS 13 and Tailwind CSS](https://ytcards.demolab.com/?id=UnTHqOWoPto&title=Integrate+Dark+Mode+in+Next+JS+13+and+Tailwind+CSS&lang=en&timestamp=1670917975&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Integrate Dark Mode in Next JS 13 and Tailwind CSS")](https://www.youtube.com/watch?v=UnTHqOWoPto)
-
 <!-- END YOUTUBE-CARDS -->
 
 ## Connect with me
