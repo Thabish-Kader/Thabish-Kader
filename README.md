@@ -106,6 +106,7 @@ my skills to use.
 -   [Amazon-demo](https://amazon-next-app-zqtc.vercel.app/) Technologies: Next Js, Stripe Chekout, Redux, Tailwind CSS
 
 -   [Instagram-demo](https://instagram-khaki-seven.vercel.app/)
+<div align="left>
     Tech stack: <img align="left" alt="NextJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
     <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
     <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
@@ -116,3 +117,4 @@ my skills to use.
 
 <br/>
 <br/>
+</div>
