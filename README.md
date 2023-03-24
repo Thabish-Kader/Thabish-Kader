@@ -102,11 +102,6 @@ my skills to use.
 
 ### Relavent Projects
 
--    Tech stack: Next Js, Supabase, StepZen, Apolloclient, GraphQl, Typescript, Tailwind CSS
--   [Amazon-demo](https://amazon-next-app-zqtc.vercel.app/) Tech stack: Next Js, Stripe Chekout, Redux, Tailwind CSS
-
--    Tech stack: Next JS, Firebase, Redux, Tailwind Css, Typescript
-
 | Full Stack Projects | 3D Projects |
 | ------------------- | ----------- |
 | [Reddit-demo](https://reddit-next-app.vercel.app/)| [3D Chatbot](https://3d-chatbot.vercel.app/)  |
