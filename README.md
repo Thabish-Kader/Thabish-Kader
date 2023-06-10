@@ -40,7 +40,7 @@ Whether it's developing a new product, improving an existing one, or optimizing 
 
 ### 🧰 Tools I Use
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,vite,py,threejs,tailwind,redux,js,nodejs,express,java,mysql,firebase,mongodb,supabase)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=ts,py,java,threejs,tailwind,redux,react,nextjs,vite,js,nodejs,express,mysql,firebase,mongodb,supabase)](https://skillicons.dev) 
 
 ### Relavent Projects
 
