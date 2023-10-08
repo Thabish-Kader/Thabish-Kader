@@ -48,7 +48,7 @@ Whether it's developing a new product, improving an existing one, or optimizing 
 | ------------------- | ----------- |
 | [Reddit-demo](https://reddit-next-app.vercel.app/)| [3D Chatbot](https://3d-chatbot.vercel.app/)  |
 | [Dall E](https://github.com/Thabish-Kader/dall-E-nextjs)| [Iphone Skins](https://de-brand-skin.vercel.app/)   |
-| [Instagram-demo](https://instagram-khaki-seven.vercel.app/)|[ProductifyIT](https://3d-generator.vercel.app/))  |
+| [Instagram-demo](https://instagram-khaki-seven.vercel.app/)|[ProductifyIT](https://3d-generator.vercel.app/)  |
 
 <div align="center">
   
