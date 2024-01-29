@@ -5,7 +5,12 @@
 ## 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Build a Real-Time Dashboard with Next JS | Express | Sockets](https://ytcards.demolab.com/?id=ucqcQ6qsb3g&title=Build+a+Real-Time+Dashboard+with+Next+JS+%7C+Express+%7C+Sockets&lang=en&timestamp=1706293842&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Build a Real-Time Dashboard with Next JS | Express | Sockets")](https://www.youtube.com/watch?v=ucqcQ6qsb3g)
+[![How to turn ideas to products in software | Next JS | Express | Python | Docker](https://ytcards.demolab.com/?id=MyyTpMkUr7U&title=How+to+turn+ideas+to+products+in+software+%7C+Next+JS+%7C+Express+%7C+Python+%7C+Docker&lang=en&timestamp=1705689029&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to turn ideas to products in software | Next JS | Express | Python | Docker")](https://www.youtube.com/watch?v=MyyTpMkUr7U)
+[![Package your application with Docker](https://ytcards.demolab.com/?id=oyaX1tFo3tU&title=Package+your+application+with+Docker&lang=en&timestamp=1705239027&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Package your application with Docker")](https://www.youtube.com/watch?v=oyaX1tFo3tU)
+[![How I Organize Full Stack AI Applications | FDS #4](https://ytcards.demolab.com/?id=vQv63w44VHQ&title=How+I+Organize+Full+Stack+AI+Applications+%7C+FDS+%234&lang=en&timestamp=1704652247&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How I Organize Full Stack AI Applications | FDS #4")](https://www.youtube.com/watch?v=vQv63w44VHQ)
+[![Why I Ditched Golang for Express ? | FDS #3](https://ytcards.demolab.com/?id=-MpaP6ElMUI&title=Why+I+Ditched+Golang+for+Express+%3F+%7C+FDS+%233&lang=en&timestamp=1704047400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Why I Ditched Golang for Express ? | FDS #3")](https://www.youtube.com/watch?v=-MpaP6ElMUI)
+[![Make Apps more engaging with animations | FDS # 2](https://ytcards.demolab.com/?id=EqM4ec8OO44&title=Make+Apps+more+engaging+with+animations+%7C+FDS+%23+2&lang=en&timestamp=1703701808&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Make Apps more engaging with animations | FDS # 2")](https://www.youtube.com/watch?v=EqM4ec8OO44)
 <!-- END YOUTUBE-CARDS -->
 
 ## Connect with me
