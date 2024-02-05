@@ -32,11 +32,7 @@
 
 
 # [My Journey](https://threejs-portfolio-4qhb.vercel.app/)
-Hi there! I'm Thabish, a passionate developer who loves building things with code. As a computer science student, I was always interested in learning everything I could about tech, from code and cloud to AI and machine learning. Recently, I've also been learning about media and its impact on businesses. I believe that with the right combination of media and code, businesses can reach new heights of success. In addition to my technical skills, I've been working on skills such as copywriting and lead generation using social media. I understand that in today's digital age, businesses need to have a strong online presence in order to succeed. That's why I'm passionate about using my skills in media and code to help businesses grow and thrive.
-
-My interest in code began with a dream to automate everything, but soon I found myself drawn to building web applications with React,Three js, and TypeScript. Initially, I was reluctant to learn Three js because it seemed complicated. But ever since I started playing around with R3f, everything got so much more fun. That, in combination with frameworks such as Next.js, helped me build full-stack applications.
-
-Whether it's developing a new product, improving an existing one, or optimizing processes, I'm excited to use my diverse skill set to drive growth and success.
+Hi there! I'm Thabish, an engineer who loves creating. 
 
 ### 🧰 Tools I Use
 
